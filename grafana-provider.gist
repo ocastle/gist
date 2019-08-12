@@ -1,0 +1,13 @@
+2019-08-12T17:01:38.680Z [DEBUG] plugin: waiting for RPC address: path=/home/vsts/work/r1/a/_client-grafana/.terraform/plugins/linux_amd64/terraform-provider-grafana_v1.5.0_x4
+2019-08-12T17:01:38.6999613Z 2019-08-12T17:01:38.694Z [DEBUG] plugin.terraform-provider-grafana_v1.5.0_x4: plugin address: timestamp=2019-08-12T17:01:38.694Z address=/tmp/plugin240918153 network=unix
+2019-08-12T17:01:38.7000119Z 2019-08-12T17:01:38.696Z [DEBUG] plugin: starting plugin: path=/home/vsts/work/r1/a/_client-grafana/.terraform/plugins/linux_amd64/terraform-provider-azurerm_v1.32.1_x4 args=[/home/vsts/work/r1/a/_client-grafana/.terraform/plugins/linux_amd64/terraform-provider-azurerm_v1.32.1_x4]
+2019-08-12T17:01:38.7000836Z 2019/08/12 17:01:38 [DEBUG] command: asking for input: "provider.grafana.auth"
+2019-08-12T17:01:38.7001135Z ‌provider.grafana.auth‌
+2019-08-12T17:01:38.7001224Z   Credentials for accessing the Grafana API.
+2019-08-12T17:01:38.7001268Z 
+2019-08-12T17:01:38.7001655Z 2019-08-12T17:01:38.699Z [DEBUG] plugin: waiting for RPC address: path=/home/vsts/work/r1/a/_client-grafana/.terraform/plugins/linux_amd64/terraform-provider-azurerm_v1.32.1_x4
+2019-08-12T17:01:38.7191714Z 2019-08-12T17:01:38.718Z [DEBUG] plugin.terraform-provider-azurerm_v1.32.1_x4: plugin address: timestamp=2019-08-12T17:01:38.718Z address=/tmp/plugin076886988 network=unix
+2019-08-12T17:01:38.7432095Z 2019-08-12T17:01:38.742Z [DEBUG] plugin: starting plugin: path=/home/vsts/work/r1/a/_client-grafana/.terraform/plugins/linux_amd64/terraform-provider-kubernetes_v1.8.1_x4 args=[/home/vsts/work/r1/a/_client-grafana/.terraform/plugins/linux_amd64/terraform-provider-kubernetes_v1.8.1_x4]
+2019-08-12T17:01:38.7458396Z 2019-08-12T17:01:38.745Z [DEBUG] plugin: waiting for RPC address: path=/home/vsts/work/r1/a/_client-grafana/.terraform/plugins/linux_amd64/terraform-provider-kubernetes_v1.8.1_x4
+2019-08-12T17:01:38.7638100Z 2019-08-12T17:01:38.763Z [DEBUG] plugin.terraform-provider-kubernetes_v1.8.1_x4: plugin address: timestamp=2019-08-12T17:01:38.763Z network=unix address=/tmp/plugin930447705
+2019-08-12T17:29:58.3312991Z   ‌Enter a value:‌ ‌
